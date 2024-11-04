@@ -8,15 +8,11 @@ Sample application to demonstrate barcode scanning from WebView.
 
 ## Install Flutter Packages
 
-Run the following command in the project root directory:
-
 ```shell
 % flutter pub get
 ```
 
 ## Run the Application
-
-Back in the project root directory, run:
 
 ```shell
 % flutter run
